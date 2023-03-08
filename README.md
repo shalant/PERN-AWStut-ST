@@ -1,3 +1,6 @@
+### Doug's notes:
+This is a great tutorial: https://www.youtube.com/watch?v=NjYsXuSBZ5U. I had to stop at 35:27 because I am struggling too much with Postgres.
+
 # Deploying PERN stack on Ubuntu 20.04
 
 > Detailed step by step procedure to deploying PERN(Postgres, Express, React, Node) stack on Ubuntu 20.04 with NGINX and SSL
